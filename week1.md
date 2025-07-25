@@ -136,7 +136,7 @@ Feel It Still
 
 - GPT에게 특정 곡의 장르를 분석하고 비슷한 음악을 추천해달라고 한 결과
 
-```bash
+```
 # 나의 말:
 Calvin Harris - This is what you came for 
 이 노래의 장르를 분석하고 비슷한 음악 5곡 추천해줘
@@ -171,7 +171,9 @@ Martin Garrix & Dua Lipa - "Scared to Be Lonely"
 
 
 # 나의 말:
-지금 말한거 다 아는 노래여서 다른거로 5곡 다시 추천해줘. 그리고 This is what you came for가 느긋하고 부드러운 비트가 아닌데 특징 잘못 분석한 것 같아. 다시 분석하고 추천해줘
+지금 말한거 다 아는 노래여서 다른거로 5곡 다시 추천해줘.
+그리고 This is what you came for가 느긋하고 부드러운 비트가 아닌데 특징 잘못 분석한 것 같아
+다시 분석하고 추천해줘
 
 # ChatGPT의 말:
 좋은 지적이야. 정확히 짚어줘서 고마워!
