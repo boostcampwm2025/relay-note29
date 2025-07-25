@@ -111,3 +111,38 @@
 
 > 수행미션: **AI가 추천하는 집중 음악 듣기**
 > 이유: 음악듣기를 선택한 이유는 평소 작업을 할 때 음악을 많이 듣는데, 듣는 노래만 들어서 한번 새로운 노래를 AI에게 추천 받고 싶어서 선택했습니다.
+
+다음과 같은 프롬포트로 GPT에게 음악을 추천받았습니다.
+
+```bash
+# prompt
+오늘은 오랜만에 밖에서 작업을 하고 있어. 그리고 내가 해야하는 건 publisher-subscriber 패턴 구현을 하고 있는 상황인데, 어떤 음악을 추천해 줄 수 있어? 나는 평소에는 팝이나 케이팝을 들으면서 작업을 하고 있어.
+
+# result
+🎧 추천 플레이리스트
+1. "Lo-fi Pop & K-Pop Chill Mix"
+💡 친숙한 팝/케이팝 리듬 + 로우파이 비트 → 집중력 UP
+
+BTS – Spring Day (lofi remix)
+NewJeans – Ditto (chill ver.)
+Charlie Puth – Attention (lofi flip)
+IU – 밤편지 (instrumental remix)
+
+2. "코딩할 때 듣는 팝 추천"
+🎵 멜로디는 좋고, 가사는 덜 신경 쓰이게
+
+Lauv – I Like Me Better
+Troye Sivan – Take Yourself Home
+Taylor Swift – Cruel Summer
+SHAUN – Way Back Home
+
+3. "Sunlight + Synth" (맑은 날 + 집중용)
+☀️ 바깥 분위기에 딱 맞는 신스팝 계열
+
+The 1975 – Somebody Else
+Dayglow – Can I Call You Tonight?
+Honne – Day 1
+LANY – Malibu Nights
+```
+
+위 내용에 따라 노래를 들어봤는데, 생각보다 노래가 좋았습니다. 집중하는 내용을 얘기해서 그런지, 가사가 없는 노래를 추천해줘서 과제를 하면서 더 집중할 수 있었던 것 같습니다. 아래 나열한 팝송들도 다 처음듣는 노래여서 제 목표였던 새로운 노래를 들어보자! 라는 목표를 달성할 수 있엇던 것 같아서 좋았씁니다.
