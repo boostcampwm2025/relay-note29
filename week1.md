@@ -107,6 +107,87 @@
 > 수행미션: **AI가 추천하는 집중 음악 듣기**
 > 이유: 평소 하우스를 자주 듣는데 AI에게 비슷한 장르의 음악을 추천받아 다양한 하우스 음악을 들으며 힐링하고 에너지를 얻고 싶어서
 
+- GPT에게 특정 곡의 장르를 분석하고 비슷한 음악을 추천해달라고 한 결과
+
+```bash
+# 나의 말:
+Calvin Harris - This is what you came for 
+이 노래의 장르를 분석하고 비슷한 음악 5곡 추천해줘
+
+# ChatGPT의 말:
+Calvin Harris - "This Is What You Came For" (feat. Rihanna)
+이 곡의 장르는 EDM (Electronic Dance Music) 중에서도 특히 Tropical House와 Progressive House가 섞인 스타일이야.
+주요 특징은 다음과 같아:
+
+느긋하고 부드러운 비트 (보통 110~115BPM)
+경쾌한 신스와 딱 맞는 킥 드럼
+반복적인 구조와 캐치한 훅
+Rihanna의 감성적인 보컬이 중심
+
+비슷한 느낌의 노래 5곡 추천:
+Zedd - "Stay" (feat. Alessia Cara)
+감성적인 보컬 + 팝과 EDM의 조화
+
+Kygo - "It Ain't Me" (with Selena Gomez)
+트로피컬 하우스의 대표주자 Kygo 스타일
+
+The Chainsmokers - "Closer" (feat. Halsey)
+감성적인 가사와 반복적인 멜로디 라인
+
+David Guetta - "Titanium" (feat. Sia)
+파워풀한 보컬과 강한 EDM 비트의 조화
+
+Martin Garrix & Dua Lipa - "Scared to Be Lonely"
+감정적인 분위기와 프로그레시브 하우스 요소가 비슷해
+
+필요하면 이 곡들 플레이리스트로 묶어서 추천해줄 수도 있어!
+
+
+# 나의 말:
+지금 말한거 다 아는 노래여서 다른거로 5곡 다시 추천해줘. 그리고 This is what you came for가 느긋하고 부드러운 비트가 아닌데 특징 잘못 분석한 것 같아. 다시 분석하고 추천해줘
+
+# ChatGPT의 말:
+좋은 지적이야. 정확히 짚어줘서 고마워!
+다시 분석하고 제대로 추천할게.
+
+🎧 "This Is What You Came For" 분석 (정확히)
+장르: EDM / Dance-Pop / Future House
+
+BPM: 약 124
+특징:
+탄탄하고 깔끔한 4/4 킥 리듬
+Future House 특유의 신스 리프 (특히 드롭 파트)
+미니멀하면서도 중독적인 사운드 디자인
+Rihanna의 보컬은 감정 과잉 없이 담백하고 몽환적인 느낌
+드롭 전후 대비가 크고, 클럽과 라디오 양쪽을 겨냥한 구조
+
+🔥 안 유명하지만 비슷한 느낌의 곡 5곡 추천
+Duke Dumont - "Ocean Drive"
+비트는 더 느긋하지만, 신스 톤과 분위기가 유사해. 몽환적이면서 세련됨.
+
+Snakehips - "Don't Leave" (feat. MØ)
+Future Bass와 Pop의 중간. 드롭이 깔끔하면서도 감정이 실려 있어.
+
+SG Lewis - "Throwaway" (with Clairo)
+깔끔한 일렉 비트와 몽환적인 톤. 드라이브나 클럽용으로도 좋음.
+
+RÜFÜS DU SOL - "Innerbloom"
+좀 더 딥하고 길지만, 사운드 레이어와 감성적 분위기에서 연결돼.
+
+KREAM - "Taped Up Heart" (feat. Clara Mae)
+Future House 기반에 여성 보컬. 리듬감과 사운드 질감이 Calvin Harris와 비슷해.
+```
+
+- 느낀 점 
+```
+지피티의 하우스 음악 장르 분석에 오류가 많은 것 같다
+음악에 대한 데이터를 어디서 수집하는걸까? 음악 자체를 분석해서 수집해놓는건지 아니면 사람들이 써놓은 감상평을 수집하는 것인지 궁금하다
+궁금해서 GPT에게 물어보니 음악 신호 처리 지식을 바탕으로 음악 자체의 구조적 분석 (오디오 피처 기반) + 메타데이터 및 장르 태그 (스트리밍/DB 기반) + 비평가나 리스너 커뮤니티의 분류로 분석한다고 한다
+특히 하우스는 여러 장르가 섞인 경우도 많고 다양한 베리에이션이 많아서, 지피티가 해주는 장르 분석이 더 불분명해지는 것 같다
+(Calvin Harris - This is what you came for 처럼 Pop/Electro House/Progressive House 다 섞여 있는 경우)
+특정 곡과 비슷한 느낌의 음악을 듣고 싶을 때는 유튜브뮤직에서 추천해주는게 더 나은 것 같다
+```
+
 ### 윤재현 (J170)
 
 > 수행미션: **AI가 추천하는 집중 음악 듣기**
