@@ -225,7 +225,7 @@ Atomics.add()의 반환 값에 대해 "아하 그럼 pre~는 계속 100이야?"�
  
 
 ### 제공된 사진
-<img width="1024" height="1536" alt="ChatGPT Image 2025년 7월 28일 오후 04_54_25" src="https://github.com/user-attachments/assets/d9365b69-f737-4b49-a0d9-fc64bb8b23b4" />
+<img width="500" height="760" alt="ChatGPT Image 2025년 7월 28일 오후 04_54_25" src="https://github.com/user-attachments/assets/d9365b69-f737-4b49-a0d9-fc64bb8b23b4" />
 
 - 고민을 많이하는 사람처럼 보였던 걸까...? ㅎㅎ... 내 원래 프사는 귀여운 짱구였는데, 고민하는 아저씨 사진으로 바꾸니 뭔가 어색했다
 
