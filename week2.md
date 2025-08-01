@@ -138,7 +138,7 @@ AI를 사용한 지 오래되었다보니 최근의 모습을 기반으로 날 �
 근 한 달간은 워낙 개발만 하다보니 이런 답변이 나오지 않았나 싶다.  AI에게 위 묘사를 기반으로 이미지를 생성해달라고 요청했다.
 
 ### 제공된 사진
-<img width="1536" height="1024" alt="AI 이미지 (1)" src="https://github.com/user-attachments/assets/7c19ccd5-66ee-483a-9a73-b80f72e29e41" />
+<img width="1000" height="500" alt="AI 이미지 (1)" src="https://github.com/user-attachments/assets/7c19ccd5-66ee-483a-9a73-b80f72e29e41" />
 
 뭔가 매우 현실적이게 나온 거 같다.. 늦은 밤까지 개발을 진행하는 경우가 잦다보니까 배경을 자연스레 밤으로 설정한 건지 신기했다.\
 방에서 개발만 진행했던 지난 한 달의 모습 그 자체
@@ -225,7 +225,7 @@ Atomics.add()의 반환 값에 대해 "아하 그럼 pre~는 계속 100이야?"�
  
 
 ### 제공된 사진
-<img width="500" height="760" alt="ChatGPT Image 2025년 7월 28일 오후 04_54_25" src="https://github.com/user-attachments/assets/d9365b69-f737-4b49-a0d9-fc64bb8b23b4" />
+<img width="1024" height="1536" alt="ChatGPT Image 2025년 7월 28일 오후 04_54_25" src="https://github.com/user-attachments/assets/d9365b69-f737-4b49-a0d9-fc64bb8b23b4" />
 
 - 고민을 많이하는 사람처럼 보였던 걸까...? ㅎㅎ... 내 원래 프사는 귀여운 짱구였는데, 고민하는 아저씨 사진으로 바꾸니 뭔가 어색했다
 
