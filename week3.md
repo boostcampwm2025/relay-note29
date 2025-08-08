@@ -207,6 +207,13 @@
 수행 계획: 학습 후 관련 키워드들을 통해 국내 기업에서 운영하는 기술블로그들을 찾아보고 NoteBookLM 서비스를 이용하여 키워드,내용 추천받아 슬랙에 공유
 
 수행 결과 : 해당 미션을 진행하던 중 notebooklm으로 공유하는 과정에서 다른 분들의 학습과정에 좋지 않는 다는 판단을 했습니다. 결과물을 보니 성장 기회를 뺐는 다는 느낌이 강했습니다.
+
+- 참고 자료
+  - [네이버 TCP/IP](https://d2.naver.com/helloworld/47667)
+  - [우아한 테크톡 - HTTP Client 진화](https://www.youtube.com/watch?v=KIOUXT0LOKs)
+  - [우아한 테크톡 - HTTP Method](https://www.youtube.com/watch?v=kt-i2falokE)
+
+
 <img width="7284" height="27787" alt="NotebookLM Mind Map (3)" src="https://github.com/user-attachments/assets/465ffe92-3b0b-4834-a88b-f900d1a925c3" />
 <details>
   <summary>미션 2 : 네트워크 학습 가이드 </summary>
